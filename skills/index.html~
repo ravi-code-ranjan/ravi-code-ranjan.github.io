@@ -259,6 +259,15 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 							</div>
 						</a>
 					</div>
+					<div class="agileinfo_portfolio_grid hovereffect">
+						<a class="cm-overlay" href="images/datacamp-applied-finance.jpg">
+							<img src="images/datacamp-applied-finance.jpg" alt=" " class="img-responsive">
+							<div class="overlay">
+								<h4>Datacamp</h4>
+								<p>Applied Finance</p> 
+							</div>
+						</a>
+					</div>
 				</div>
 				<div class="clearfix"> </div>
 			</div>
