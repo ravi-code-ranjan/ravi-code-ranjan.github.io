@@ -7,11 +7,10 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Photo Maker a Photo Gallery Bootstrap Responsive Website Template | Home :: w3layouts</title>
+<title>professional Skills Ravi Ranjan</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta charset="utf-8">
-<meta name="keywords" content="Photo Maker Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
-Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
+<meta name="keywords" content="Big Data", "Machine Learning", "Deep Learning", "Scalability", "Service Oriented Architecture" />
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
 <!-- bootstrap-css -->
 <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
@@ -41,20 +40,6 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		});
 	});
 </script> 
-<script>
-$(document).ready(function() { 
-	$("#owl-demo").owlCarousel({
- 
-		autoPlay: 3000, //Set AutoPlay to 3 seconds
-		autoPlay:true,
-		items : 3,
-		itemsDesktop : [640,5],
-		itemsDesktopSmall : [414,4]
- 
-	});
-	
-}); 
-</script>
 <!--[if lt IE 9]>
   <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
 <![endif]-->
@@ -65,11 +50,20 @@ $(document).ready(function() {
 	<div class="portfolio" id="gallery">
 		<div class="container">
 			<div class="w3ls-heading">
-				<h3>Skills Gallery</h3>
-				<p>All World class certifications</p>
+				<h3>Professional Skills Gallery</h3>
+				<p>All World Class Certifications</p>
 			</div>
 			<div class="agileits_portfolio_grids">
 				<div class="col-md-3 agileits_portfolio_grid">
+					<div class="agileinfo_portfolio_grid hovereffect">
+						<a class="cm-overlay" href="images/datacamp-data-scientist.jpg">
+							<img src="images/datacamp-data-scientist.jpg" alt=" " class="img-responsive">
+							<div class="overlay">
+								<h4>Datacamp</h4>
+								<p>Data Scientist</p> 
+							</div>
+						</a>
+					</div>
 					<div class="agileinfo_portfolio_grid hovereffect">
 						<a class="cm-overlay" href="images/data_sci-Coursera.jpg">
 							<img src="images/data_sci-Coursera.jpg" alt=" " class="img-responsive">
@@ -89,6 +83,15 @@ $(document).ready(function() {
 						</a>
 					</div>
 					<div class="agileinfo_portfolio_grid hovereffect">
+						<a class="cm-overlay" href="images/datacamp-credit-risk-model.jpg">
+							<img src="images/datacamp-credit-risk-model.jpg" alt=" " class="img-responsive">
+							<div class="overlay">
+								<h4>Datacamp</h4>
+								<p>Credit Risk Modelling</p> 
+							</div>
+						</a>
+					</div>
+					<div class="agileinfo_portfolio_grid hovereffect">
 						<a class="cm-overlay" href="images/warehouse_Udemy.jpg">
 							<img src="images/warehouse_Udemy.jpg" alt=" " class="img-responsive">
 							<div class="overlay">
@@ -97,8 +100,26 @@ $(document).ready(function() {
 							</div>
 						</a>
 					</div>
+					<div class="agileinfo_portfolio_grid hovereffect">
+						<a class="cm-overlay" href="images/datacamp-sl-scikit.jpg">
+							<img src="images/datacamp-sl-scikit.jpg" alt=" " class="img-responsive">
+							<div class="overlay">
+								<h4>Datacamp</h4>
+								<p>Scikit Learn</p> 
+							</div>
+						</a>
+					</div>
 				</div>
 				<div class="col-md-3 agileits_portfolio_grid">
+					<div class="agileinfo_portfolio_grid hovereffect">
+						<a class="cm-overlay" href="images/datacamp-data-analyst.jpg">
+							<img src="images/datacamp-data-analyst.jpg" alt=" " class="img-responsive">
+							<div class="overlay">
+								<h4>Datacamp</h4>
+								<p>Data Analyst</p> 
+							</div>
+						</a>
+					</div>
 					<div class="agileinfo_portfolio_grid hovereffect">
 						<a class="cm-overlay" href="images/DL2-Coursera.jpg">
 							<img src="images/DL2-Coursera.jpg" alt=" " class="img-responsive">
@@ -118,6 +139,15 @@ $(document).ready(function() {
 						</a>
 					</div>
 					<div class="agileinfo_portfolio_grid hovereffect">
+						<a class="cm-overlay" href="images/datacamp-portfolio-analysis.jpg">
+							<img src="images/datacamp-portfolio-analysis.jpg" alt=" " class="img-responsive">
+							<div class="overlay">
+								<h4>Datacamp</h4>
+								<p>Portfolio Analysis</p> 
+							</div>
+						</a>
+					</div>
+					<div class="agileinfo_portfolio_grid hovereffect">
 						<a class="cm-overlay" href="images/DL-az_Udemy.jpg">
 							<img src="images/DL-az_Udemy.jpg" alt=" " class="img-responsive">
 							<div class="overlay">
@@ -126,8 +156,26 @@ $(document).ready(function() {
 							</div>
 						</a>
 					</div>
+					<div class="agileinfo_portfolio_grid hovereffect">
+						<a class="cm-overlay" href="images/datacamp-machine-learning.jpg">
+							<img src="images/datacamp-machine-learning.jpg" alt=" " class="img-responsive">
+							<div class="overlay">
+								<h4>Datacamp</h4>
+								<p>Machine Learning</p> 
+							</div>
+						</a>
+					</div>
 				</div>
 				<div class="col-md-3 agileits_portfolio_grid">
+					<div class="agileinfo_portfolio_grid hovereffect">
+						<a class="cm-overlay" href="images/datacamp-bond-valuation.jpg">
+							<img src="images/datacamp-bond-valuation.jpg" alt=" " class="img-responsive">
+							<div class="overlay">
+								<h4>Datacamp</h4>
+								<p>Bond Valuation</p> 
+							</div>
+						</a>
+					</div>
 					<div class="agileinfo_portfolio_grid hovereffect">
 						<a class="cm-overlay" href="images/DL_gefry-Coursera.jpg">
 							<img src="images/DL_gefry-Coursera.jpg" alt=" " class="img-responsive">
@@ -147,11 +195,29 @@ $(document).ready(function() {
 						</a>
 					</div>
 					<div class="agileinfo_portfolio_grid hovereffect">
+						<a class="cm-overlay" href="images/datacamp-deep-learning.jpg">
+							<img src="images/datacamp-deep-learning.jpg" alt=" " class="img-responsive">
+							<div class="overlay">
+								<h4>Datacamp</h4>
+								<p>Deep Learning</p> 
+							</div>
+						</a>
+					</div>
+					<div class="agileinfo_portfolio_grid hovereffect">
 						<a class="cm-overlay" href="images/ML-az_Udemy.jpg">
 							<img src="images/ML-az_Udemy.jpg" alt=" " class="img-responsive">
 							<div class="overlay">
 								<h4>Udemy</h4>
 								<p>Machine Learning A-Z</p> 
+							</div>
+						</a>
+					</div>
+					<div class="agileinfo_portfolio_grid hovereffect">
+						<a class="cm-overlay" href="images/datacamp-financial-trade.jpg">
+							<img src="images/datacamp-financial-trade.jpg" alt=" " class="img-responsive">
+							<div class="overlay">
+								<h4>Datacamp</h4>
+								<p>Financial Trade</p> 
 							</div>
 						</a>
 					</div>
@@ -220,7 +286,7 @@ $(document).ready(function() {
 			</div>
 			<div class="border"></div>
 			<div class="agileits-w3layouts-copyright">
-				<p>© 2017 Photo Maker. All rights reserved | Design by <a href="http://w3layouts.com/">W3layouts</a></p>
+				<p>© 2017 Ravi Ranjan. All rights reserved </p>
 			</div>
 		</div>
 	</div>
