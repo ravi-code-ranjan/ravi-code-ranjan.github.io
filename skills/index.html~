@@ -7,7 +7,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>professional Skills Ravi Ranjan</title>
+<title>Professional Skills Ravi Ranjan</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta charset="utf-8">
 <meta name="keywords" content="Big Data", "Machine Learning", "Deep Learning", "Scalability", "Service Oriented Architecture" />
@@ -213,6 +213,15 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						</a>
 					</div>
 					<div class="agileinfo_portfolio_grid hovereffect">
+						<a class="cm-overlay" href="images/udemy_kafka2.jpg">
+							<img src="images/udemy_kafka2.jpg" alt=" " class="img-responsive">
+							<div class="overlay">
+								<h4>Udemy</h4>
+								<p>Financial Trade</p> 
+							</div>
+						</a>
+					</div>
+					<div class="agileinfo_portfolio_grid hovereffect">
 						<a class="cm-overlay" href="images/datacamp-financial-trade.jpg">
 							<img src="images/datacamp-financial-trade.jpg" alt=" " class="img-responsive">
 							<div class="overlay">
@@ -247,6 +256,15 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 							<div class="overlay">
 								<h4>Jhons Hoppins University</h4>
 								<p>Statistical Inference</p> 
+							</div>
+						</a>
+					</div>
+					<div class="agileinfo_portfolio_grid hovereffect">
+						<a class="cm-overlay" href="images/udemy_kafka1.jpg">
+							<img src="images/udemy_kafka1.jpg" alt=" " class="img-responsive">
+							<div class="overlay">
+								<h4>Udemy</h4>
+								<p>Financial Trade</p> 
 							</div>
 						</a>
 					</div>
