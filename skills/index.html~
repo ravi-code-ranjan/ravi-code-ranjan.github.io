@@ -56,6 +56,15 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			<div class="agileits_portfolio_grids">
 				<div class="col-md-3 agileits_portfolio_grid">
 					<div class="agileinfo_portfolio_grid hovereffect">
+						<a class="cm-overlay" href="images/Coursera_Test_Retrivel_Search_Engine.jpg">
+							<img src="images/Coursera_Test_Retrivel_Search_Engine.jpg" alt=" " class="img-responsive">
+							<div class="overlay">
+								<h4>illinois</h4>
+								<p>Search Engine</p> 
+							</div>
+						</a>
+					</div>
+					<div class="agileinfo_portfolio_grid hovereffect">
 						<a class="cm-overlay" href="images/datacamp-data-scientist.jpg">
 							<img src="images/datacamp-data-scientist.jpg" alt=" " class="img-responsive">
 							<div class="overlay">
@@ -70,6 +79,15 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 							<div class="overlay">
 								<h4>Coursera</h4>
 								<p>Data Science</p> 
+							</div>
+						</a>
+					</div>
+					<div class="agileinfo_portfolio_grid hovereffect">
+						<a class="cm-overlay" href="images/kubernetes.jpg">
+							<img src="images/kubernetes.jpg" alt=" " class="img-responsive">
+							<div class="overlay">
+								<h4>Udemy</h4>
+								<p>Deep Learning NLP</p> 
 							</div>
 						</a>
 					</div>
@@ -130,6 +148,15 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						</a>
 					</div>
 					<div class="agileinfo_portfolio_grid hovereffect">
+						<a class="cm-overlay" href="images/Coursera_Text_Mining.jpg">
+							<img src="images/Coursera_Text_Mining.jpg" alt=" " class="img-responsive">
+							<div class="overlay">
+								<h4>illinois</h4>
+								<p>Text Mining</p> 
+							</div>
+						</a>
+					</div>
+					<div class="agileinfo_portfolio_grid hovereffect">
 						<a class="cm-overlay" href="images/DL2-Coursera.jpg">
 							<img src="images/DL2-Coursera.jpg" alt=" " class="img-responsive">
 							<div class="overlay">
@@ -166,6 +193,15 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						</a>
 					</div>
 					<div class="agileinfo_portfolio_grid hovereffect">
+						<a class="cm-overlay" href="images/Datacamp-time-series-python.jpg">
+							<img src="images/Datacamp-time-series-python.jpg" alt=" " class="img-responsive">
+							<div class="overlay">
+								<h4>Datacamp</h4>
+								<p>Time Series</p> 
+							</div>
+						</a>
+					</div>
+					<div class="agileinfo_portfolio_grid hovereffect">
 						<a class="cm-overlay" href="images/DL-az_Udemy.jpg">
 							<img src="images/DL-az_Udemy.jpg" alt=" " class="img-responsive">
 							<div class="overlay">
@@ -185,6 +221,15 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					</div>
 				</div>
 				<div class="col-md-3 agileits_portfolio_grid">
+					<div class="agileinfo_portfolio_grid hovereffect">
+						<a class="cm-overlay" href="images/NLP_A-Z.jpg">
+							<img src="images/NLP_A-Z.jpg" alt=" " class="img-responsive">
+							<div class="overlay">
+								<h4>Udemy</h4>
+								<p>Deep Learning NLP</p> 
+							</div>
+						</a>
+					</div>
 					<div class="agileinfo_portfolio_grid hovereffect">
 						<a class="cm-overlay" href="images/datacamp-bond-valuation.jpg">
 							<img src="images/datacamp-bond-valuation.jpg" alt=" " class="img-responsive">
