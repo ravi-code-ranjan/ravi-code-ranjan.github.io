@@ -258,15 +258,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						</a>
 					</div>
 					<div class="agileinfo_portfolio_grid hovereffect">
-						<a class="cm-overlay" href="images/Coursera_CNN.jpg">
-							<img src="images/Coursera_CNN.jpg" alt=" " class="img-responsive">
-							<div class="overlay">
-								<h4>DeepLearning.AI</h4>
-								<p>CNN</p> 
-							</div>
-						</a>
-					</div>
-					<div class="agileinfo_portfolio_grid hovereffect">
 						<a class="cm-overlay" href="images/NLP_A-Z.jpg">
 							<img src="images/NLP_A-Z.jpg" alt=" " class="img-responsive">
 							<div class="overlay">
@@ -346,6 +337,15 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 							<div class="overlay">
 								<h4>Datacamp</h4>
 								<p>Quant-Risk</p> 
+							</div>
+						</a>
+					</div>
+					<div class="agileinfo_portfolio_grid hovereffect">
+						<a class="cm-overlay" href="images/Coursera_CNN.jpg">
+							<img src="images/Coursera_CNN.jpg" alt=" " class="img-responsive">
+							<div class="overlay">
+								<h4>DeepLearning.AI</h4>
+								<p>CNN</p> 
 							</div>
 						</a>
 					</div>
